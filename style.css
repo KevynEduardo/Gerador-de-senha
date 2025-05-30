@@ -2,10 +2,10 @@
 
 :root{
     --branco: white;
-    --cor-de-fundo: #282c4b;
-    --fundo-senha: #4074af;
-    --fundo-texto: #4074af;
-    --borda: #a2bfe0;
+    --cor-de-fundo: #eb10c6;
+    --fundo-senha: #020c1600;
+    --fundo-texto: #f3951a;
+    --borda: #14202e;
     --roboto: 'Roboto', sans-serif;
     --roboto-mono: 'Roboto Mono', monospace;
 }
@@ -131,7 +131,7 @@ label{
     background-color: #E71B32; 
 }
 .media{
-    background-color: #FAF408;
+    background-color: #e2fa08;
     width: 50%;
 }
 .forte{
